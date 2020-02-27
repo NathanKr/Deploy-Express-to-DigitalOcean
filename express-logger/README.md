@@ -1,2 +1,1 @@
-<h2>Motivation</h2>
-Use the middleware morgan to easyly log request info e.g datetime , url , http method , ...
+Simple express app with logger
