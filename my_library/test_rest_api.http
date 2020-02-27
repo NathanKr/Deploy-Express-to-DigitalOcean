@@ -1,0 +1,30 @@
+// --- get all books
+GET http://localhost:8080/books
+
+###
+// --- You should replace with id :
+// ---  existed to remove , not existed to get 404
+DELETE http://localhost:8080/books/5db2ad7c8c2870fce7bf8297
+
+###
+// --- you can play with name,pages,isNew
+POST http://localhost:8080/books
+Content-Type: application/json
+
+{
+    "name" : "Gone with the wind",
+    "pages" : "345",
+    "isNew" : true
+}
+
+
+###
+// --- you can play with name,pages,isNew (not all must exist)
+PATCH  http://localhost:8080/books/5e5783ea4e513512dcab873d
+Content-Type: application/json
+
+{
+    "name" : "Gone with the wind ",
+    "pages" : "111",
+    "isNew" : false
+}

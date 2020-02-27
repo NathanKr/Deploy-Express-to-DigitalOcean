@@ -1,0 +1,4 @@
+GET http://localhost:8080/api1?key1=value1
+
+###
+GET http://localhost:8080/api2
