@@ -8,7 +8,7 @@ const handleProduction = (express,app) => {
     
     app.use(express.static(buildPath));
 
-    // --- this is relevant for client router
+    // --- handle uknown route
     app.get("*", (req, res) => {
       console.log("unknown route is accessed, serve index.html");
       const indexHtmlPath = path.join(buildPath, "index.html");
