@@ -21,8 +21,10 @@
   },
   "homepage": "https://github.com/NathanKr/ExpressAndReactSimple#readme",
   "dependencies": {
-    "concurrently": "^4.1.0",
     "express": "^4.16.4",
     "mongodb": "^3.5.0"
+  },
+  "devDependencies": {
+    "concurrently": "^5.1.0"
   }
 }
