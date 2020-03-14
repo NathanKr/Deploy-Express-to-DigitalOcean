@@ -11,4 +11,5 @@ This repo has apps and slides which are used in the online course : Deploy-your-
     <li><a href="https://docs.google.com/presentation/d/1e1SZrvYJGPrrfKIM4UJ3iT1umbh6bjhU4Z54cTJw8HE/edit?usp=sharing">Deploy an express app to the cloud</a></li>
     <li><a href="https://docs.google.com/presentation/d/1OvHMBROUaD4gDKLVkTcv0uTaG4fZoqeIjNpuec0TUZQ/edit?usp=sharing">Deploy an express app with MongoDb to the cloud </a></li>
     <li><a href="https://docs.google.com/presentation/d/1zjKXnn8vPyqNdFpx-gYzHCr_YobjaOaeBpcb5SH6GBU/edit?usp=sharing">Deploy an express app with React to the cloud    </a></li>
+    <li><a href="https://docs.google.com/presentation/d/1zjKXnn8vPyqNdFpx-gYzHCr_YobjaOaeBpcb5SH6GBU/edit?usp=sharing">More about express\react deployment</a></li>
 </ol>
