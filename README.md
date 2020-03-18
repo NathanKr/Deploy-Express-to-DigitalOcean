@@ -1,7 +1,7 @@
 <h2>Motivation</h2>
 This repo has apps and slides which are used in the online course : Deploy-your-Node-Express-App-to-the-Cloud
 
-<h2>Slides</h2>
+<h2>Section Slides</h2>
 <ol>
     <li><a href="https://docs.google.com/presentation/d/12qGKrhmmR7_aiktVhBS6EKkLTNfho2r3smm9GT-FqZo/edit?usp=sharing">Welcome</a></li>
     <li><a href="https://docs.google.com/presentation/d/1CV3_KzJflX_KRhfwnnNhUMZ2GB-iHhYA7oj07IsPYrM/edit?usp=sharing">Hosting provider for developers</a></li>
@@ -12,4 +12,5 @@ This repo has apps and slides which are used in the online course : Deploy-your-
     <li><a href="https://docs.google.com/presentation/d/1OvHMBROUaD4gDKLVkTcv0uTaG4fZoqeIjNpuec0TUZQ/edit?usp=sharing">Deploy an express app with MongoDb to the cloud </a></li>
     <li><a href="https://docs.google.com/presentation/d/1zjKXnn8vPyqNdFpx-gYzHCr_YobjaOaeBpcb5SH6GBU/edit?usp=sharing">Deploy an express app with React to the cloud    </a></li>
     <li><a href="https://docs.google.com/presentation/d/1zjKXnn8vPyqNdFpx-gYzHCr_YobjaOaeBpcb5SH6GBU/edit?usp=sharing">More about express\react deployment</a></li>
+    <li><a href="https://docs.google.com/presentation/d/1szzmc3vP0dL6nEahd8cMsl6dS8f0gCxJSDL2X76CE2E/edit?usp=sharing">Summary</a></li>
 </ol>
